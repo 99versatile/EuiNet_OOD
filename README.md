@@ -1,5 +1,5 @@
 # MNIST_OOD
-EuiNet: OOD MNIST using GAN Discriminator and ODIN - submitted as 2023_1 Deep Learning Lab Final Project
+EuiNet: OOD using GAN Discriminator and ODIN - submitted as 2023_1 Deep Learning Lab Final Project
 
 pretrained weight available at the following link: 
 
